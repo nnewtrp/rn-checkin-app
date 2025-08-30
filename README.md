@@ -28,7 +28,7 @@ An online **work timekeeping mobile application** built with **React Native**, *
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nnewtrp/check-in-app.git
+git clone https://github.com/nnewtrp/rn-checkin-app.git
 cd check-in-app
 ```
 
